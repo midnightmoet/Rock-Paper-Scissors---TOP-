@@ -1,0 +1,4 @@
+function getComputerChoice(playerSelection, computerSelection) {
+
+}
+
