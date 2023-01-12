@@ -8,8 +8,8 @@ function computerPlay() {
 }
 
 function disableButtons() {
-    buttons.forEach(elem => {
-        elem.disabled = true
+    buttons.forEach(e => {
+        e.disabled = true
     })
 }
 
